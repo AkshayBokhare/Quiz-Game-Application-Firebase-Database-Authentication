@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675189544807",
+    "project_id": "quiz-game-1a519",
+    "storage_bucket": "quiz-game-1a519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675189544807:android:dd0bbbed6927a09edc41c2",
+        "android_client_info": {
+          "package_name": "com.nts.quizgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYoo7JCrNoY4GxDeZp-vDwW8PrN0mYRwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
